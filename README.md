@@ -1,9 +1,10 @@
 <h1>Hi, I'm Can! <br/><a href="https://github.com/cankayadev
 1">Programmer</a>, <a href="https://www.linkedin.com/in/cankayadev
-/">Search Engine Optimizer</a>, <a href="https://www.youtube.com/c/cankayadev
-">YouTuber</a></h1>
-
+/">Search Engine Optimizer</a>
+  
 <!-- <h2>👨‍💻 Software Development Projects:</h2>
+, <a href="https://www.youtube.com/c/cankayadev
+">YouTuber</a></h1>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/cankayadev
