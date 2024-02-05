@@ -1,5 +1,4 @@
-<h1>Hi, I'm Can! <br/><a href="https://github.com/cankayadev
-1">Programmer</a>, <a href="https://www.linkedin.com/in/cankayadev
+<h1>Hi, I'm Can! <br/><a href="https://github.com/cankayadev">Programmer</a>, <a href="https://www.linkedin.com/in/cankayadev
 /">Search Engine Optimizer</a>
   
 <!-- <h2>👨‍💻 Software Development Projects:</h2>
