@@ -1,73 +1,23 @@
-<h1>Hi, I'm Can! <br/><a href="https://github.com/cankayadev">Programmer</a>, <a href="https://www.linkedin.com/in/cankayadev
-/">Search Engine Optimizer</a>
-  
-<!-- <h2>👨‍💻 Software Development Projects:</h2>
-, <a href="https://www.youtube.com/c/cankayadev
-">YouTuber</a></h1>
+## Hey there! Nice to have you. 
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/cankayadev
-1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/cankayadev
-1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/cankayadev
-1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/cankayadev
-1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/cankayadev
-1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/cankayadev
-1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/cankayadev
-1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/cankayadev
-1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/cankayadev
-1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/cankayadev
-1/Package-Delivery-Pathfinding-Algorithm)
+What I am good at:
 
-<h2>📺 Popular YouTube Videos</h2>
+* **Problem-solving:** I thrive on unraveling complex issues and crafting elegant solutions.
+* **Continuous Learning:** I'm a lifelong learner, always eager to explore new technologies and concepts.
+* **Clear Communication:** Whether it's written or verbal, I strive to convey ideas with clarity and impact.
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA) -->
+What motivates me:
 
-<h2> 🤳 Connect with me:</h2>
-<!--
-[<img align="left" alt="cankayadev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="cankayadev 
- | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="cankayadev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="cankayadev
- | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-<!--
-[twitter]: https://twitter.com/cankayadev
-[youtube]: https://www.youtube.com/c/cankayadev
-[instagram]: https://www.instagram.com/cankayadev
-/
-[linkedin]: https://linkedin.com/in/cankayadev
- -->
+* **Collective Success:** Witnessing others achieve their goals fuels my own drive.
+* **Steady Growth:** I'm committed to consistent learning and improvement, both personally and professionally.
 
-<!--
-**cankayadev
-1/cankayadev
-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Take a look around!**
 
-Here are some ideas to get you started:
+* **[Codebook](https://github.com/cankayadev/codebook):** My personal playground for experimenting with code and pushing boundaries.
+* **[Blog](https://github.com/cankayadev/blog):** Where I share insights, learnings, and experiences on my development journey.
+* **[Lab](https://github.com/cankayadev/lab):** A space for tinkering with innovative ideas and exploring new technologies.
 
-- 🔭 I’m currently working on ...
+**Let's connect!**
+* **[E-Mail](mailto:arbeit@bahtiyarkaya.com)**
+* **[Linkedin](https://www.linkedin.com/in/cankayadev/)**
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
